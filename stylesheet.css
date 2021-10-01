@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#about{
+    background: #00008b;
+    color: #ffffff;
+}
+
+#position{
+    background: #00008b;
+    color: azure;
+    height: 2000px;
+}
+
+#rule{
+    background: #00008b;
+    color: azure; 
+    height: 2700px;
+}
+
+#shoot_pas_sistem{
+    background: #00008b;
+    color: azure;
+    height: 4000px;
+}
+
+#word{
+    background: #00008b;
+    color: azure;
+    height: 2500px;
+}
+
+#comet{
+    background: #00008b;
+    color: azure; 
+    height: 1600px;
+}
+
+nav {
+    background-color: #0000cd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     text-align: center;
+    font-size: 20px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+nav a {
+    color: azure;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.container{
+    width: 960px;
+    margin: auto;
+}
+
+.title1 {
+    font-size: 30px;
+    border-left-style: solid;
+    border-left-color: #66cc99;
+    border-left-width: 10px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+}
+
+.title2 {
+    font-size: 30px;
+    border-left-style: solid;
+    border-left-color: #66cc99;
+    border-left-width: 10px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+}
+
+.title3 {
+    font-size: 30px;
+    border-left-style: solid;
+    border-left-color: #66cc99;
+    border-left-width: 10px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+}
+
+.title4{
+    font-size: 30px;
+    border-left-style: solid;
+    border-left-color: #66cc99;
+    border-left-width: 10px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+}
+
+.title5{
+    font-size: 30px;
+    border-left-style: solid;
+    border-left-color: #66cc99;
+    border-left-width: 10px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+}
+
+.title6{
+    font-size: 30px;
+    border-left-style: solid;
+    border-left-color: #66cc99;
+    border-left-width: 10px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+}
+
+.about p {
+    font-size: 20px;
+    background-color: #333333;
+    padding: 20px;
+    /*    height: 90px;*/
+    border-radius: 30px;
+}
+
+#position p {
+    display: block;
+    float: left;
+    font-size: 20px;
+    background-color: #333333;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+#rule p {
+    display: block;
+    float: left;
+    font-size: 20px;
+    background-color: #333333;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+/*    height: 530px;*/
+    border-radius: 30px;
+}
+
+#shoot_pas_sistem p{
+    display: block;
+    float: left;
+    font-size: 20px;
+    background-color: #333333;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+/*    height: 530px;*/
+    border-radius: 30px;
+}
+
+#word p{
+     display: block;
+    float: left;
+    font-size: 20px;
+    background-color: #333333;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+/*    height: 530px;*/
+    border-radius: 30px;
+}
+
+footer {
+    text-align: center;
+    color: #ffffff;
+    background: #0000cd;
+    padding: 10px 0;
+}
+
+.member_block {
+    float: left;
+    margin: 10px 5px 0 0;
+    padding: 5px;
+    width: 145px;
+    background: #333333;
+    font-size: 13px;
+    text-align: center;
+    line-height: 160%;
+    color: azure;
+    padding: 25px;
+    padding-left: 10px;
+}
